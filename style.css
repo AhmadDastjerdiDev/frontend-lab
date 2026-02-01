@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+header{
+  background-color: khaki;
+}
+#headerH1{
+  background-color: khaki;
+}
+#mainH1{
+  background-color: tomato;
+}
+#audioH1{
+  background-color: turquoise
+}
+.written{
+  color: whitesmoke
+}
+
