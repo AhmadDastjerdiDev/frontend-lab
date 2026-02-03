@@ -1,19 +1,22 @@
 body{
-  background-color: black;
+  background-color: #191a19;
 }
 header{
-  background-color: khaki;
+  background-color: hsl(43, 34%, 62%);
 }
 #headerH1{
-  background-color: khaki;
+  background-color: hsl(43, 34%, 62%);
 }
 #mainH1{
   background-color: tomato;
 }
 #audioH1{
-  background-color: turquoise
+  background-color: turquoise;
 }
 .written{
-  color: whitesmoke
+  color: rgb(242, 252, 245);
+}
+#footer{
+  background-color: hsl(43, 34%, 62%);
 }
 
