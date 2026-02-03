@@ -2,7 +2,6 @@
   src: url(fonts/BitcountSingleInk-VariableFont_CRSV,ELSH,ELXP,SZP1,SZP2,XPN1,XPN2,YPN1,YPN2,slnt,wght.ttf);
   font-family: "Bitcount Single Ink";
 }
-
 body{
   background-color: #191a19;
 }
@@ -11,20 +10,38 @@ header{
 }
 #headerH1{
   font-family: "Bitcount Prop Double Ink";
+  border:3px groove #c2ffca;
   background-color: hsl(42, 36%, 95%);
 }
 #mainH1{
   background-color: tomato;
+  border: 2px outset #c2ffca;
+  border-radius: 5px;
+}
+#paragraph{
+  border-bottom: 3px solid yellowgreen;
+  border-top: 3px solid yellowgreen;
+  border-left: 3px solid yellowgreen;
+  border-right: 3px solid yellowgreen;
 }
 #audioH1{
   background-color: turquoise;
+  border-style: outset;
+  border-width: 2px;
+  border-color: #c2ffca;
+  border-radius: 5px;
+}
+#earth{
+  border-style: outset;
+  border-width: 2px;
+  border-color: #c2ffca;
+  border-radius: 5px;
 }
 .written{
   font-family: Verdana, Arial, sans-serif;
   font-size: 1.1em;
   font-weight: normal;
   font-style: oblique;
-
   color: rgb(242, 252, 245);
 }
 #footer{
