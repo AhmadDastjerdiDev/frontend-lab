@@ -1,3 +1,8 @@
+@font-face {
+  src: url(fonts/BitcountSingleInk-VariableFont_CRSV,ELSH,ELXP,SZP1,SZP2,XPN1,XPN2,YPN1,YPN2,slnt,wght.ttf);
+  font-family: "Bitcount Single Ink";
+}
+
 body{
   background-color: #191a19;
 }
@@ -5,7 +10,8 @@ header{
   background-color: hsl(43, 34%, 62%);
 }
 #headerH1{
-  background-color: hsl(43, 34%, 62%);
+  font-family: "Bitcount Prop Double Ink";
+  background-color: hsl(42, 36%, 95%);
 }
 #mainH1{
   background-color: tomato;
@@ -14,6 +20,11 @@ header{
   background-color: turquoise;
 }
 .written{
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 1.1em;
+  font-weight: normal;
+  font-style: oblique;
+
   color: rgb(242, 252, 245);
 }
 #footer{
