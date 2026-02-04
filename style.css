@@ -17,6 +17,13 @@ header{
   background-color: tomato;
   border: 2px outset #c2ffca;
   border-radius: 5px;
+  text-shadow: 2px 2px 2px white;
+}
+#box1{
+  width: 10px;
+  height: 10px;
+  background-color: #fb4909;
+  box-shadow: 3px 3px #f4955b;
 }
 #paragraph{
   border-bottom: 3px solid yellowgreen;
@@ -30,12 +37,26 @@ header{
   border-width: 2px;
   border-color: #c2ffca;
   border-radius: 5px;
+  text-shadow: 2px 2px 2px white;
+}
+#box2{
+  width: 10px;
+  height: 10px;
+  background-color: darkcyan;
+  box-shadow: 3px 3px turquoise;
 }
 #earth{
   border-style: outset;
   border-width: 2px;
   border-color: #c2ffca;
   border-radius: 5px;
+  text-shadow: 2px 2px 2px white;
+}
+#box3{
+  width: 10px;
+  height: 10px;
+  background-color: #06065e;
+  box-shadow: 2px 2px 2px #2121ff;
 }
 .written{
   font-family: Verdana, Arial, sans-serif;
