@@ -5,6 +5,8 @@
 body{
   background-color: #191a19;
   margin: 30px;
+  border: 3px solid;
+  display: flow-root;
 }
 header{
   background-color: hsl(43, 34%, 62%);
@@ -78,4 +80,17 @@ header{
 #footer{
   background-color: hsl(43, 34%, 62%);
 }
+#image1{
+  float: right;
+  margin-left: 10px;
+}
+#image2{
+  float: right;
+  margin-left: 10px;
+}
+#image3{
+  float: right;
+  margin-left: 10px;
+}
+
 
