@@ -4,6 +4,7 @@
 }
 body{
   background-color: #191a19;
+  margin: 30px;
 }
 header{
   background-color: hsl(43, 34%, 62%);
@@ -24,6 +25,9 @@ header{
   height: 10px;
   background-color: #fb4909;
   box-shadow: 3px 3px #f4955b;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
 }
 #paragraph{
   border-bottom: 3px solid yellowgreen;
@@ -44,6 +48,9 @@ header{
   height: 10px;
   background-color: darkcyan;
   box-shadow: 3px 3px turquoise;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
 }
 #earth{
   border-style: outset;
@@ -57,6 +64,9 @@ header{
   height: 10px;
   background-color: #06065e;
   box-shadow: 2px 2px 2px #2121ff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
 }
 .written{
   font-family: Verdana, Arial, sans-serif;
